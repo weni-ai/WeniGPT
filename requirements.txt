@@ -8,6 +8,7 @@ huggingface_hub==0.17.3
 seqeval
 optimum
 auto-gptq==0.6.0
+gpustat==1.1.1
 autoawq
 wandb
 git+https://github.com/huggingface/trl.git@main
