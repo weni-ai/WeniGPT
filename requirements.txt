@@ -1,14 +1,13 @@
 transformers>4.34.0
-torch==2.1.0
 datasets==2.13.0
-peft==0.4.0
+peft==0.7.1
 safetensors>=0.4.1
 evaluate==0.4.1
 bitsandbytes==0.41.2
 huggingface_hub==0.17.3
 seqeval
 optimum
-auto-gptq
+auto-gptq==0.6.0
 autoawq
 wandb
 git+https://github.com/huggingface/trl.git@main
