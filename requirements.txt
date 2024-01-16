@@ -1,7 +1,7 @@
 transformers==4.36.2
 datasets==2.16.1
 peft==0.7.1
-safetensor==0.4.1
+safetensors==0.4.1
 evaluate==0.4.1
 bitsandbytes==0.42
 huggingface_hub==0.20.2
